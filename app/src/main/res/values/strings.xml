@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ApplicationApp</string>
+    <string name="electric_car">Electric Car</string>
+    <string name="carros">carros</string>
+    <string name="favoritos">favoritos</string>
+    <string name="preco">Preço</string>
+    <string name="preco_value">R$ 200.000,00</string>
+    <string name="bateria">bateria</string>
+    <string name="bateria_value">120 kWh</string>
+    <string name="potencia">potência</string>
+    <string name="potencia_value">400 cv</string>
+    <string name="recarga">recarga</string>
+    <string name="recarga_value">25 min</string>
+    <string name="preco_kwh">Preço kWh</string>
+    <string name="km_percorrido">Km percorrido</string>
+    <string name="calcular">calcular</string>
+    <string name="calcular_autonomia_titulo">Calcular Autonomia</string>
+    <string name="redirect">Calcular</string>
+    <string name="img_car_Dscpt">img_car</string>
 </resources>
